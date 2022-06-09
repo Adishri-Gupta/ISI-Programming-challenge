@@ -4,14 +4,14 @@ Sentiment Analysis on Webscraped articles using Python
 
 Tools and Libraries used-
 
-nltk==3.2.5
-pandas==1.3.5
-requests==2.27.1
-textblob==0.15.3
-tqdm==4.64.0
-vaderSentiment==3.3.2
-wordcloud==1.5.0
-pyyaml==5.4.1
+nltk==3.2.5                                                                                                                                                               
+pandas==1.3.5                                                                                                                                                             
+requests==2.27.1                                                                                                                                                         
+textblob==0.15.3                                                                                                                                                         
+tqdm==4.64.0                                                                                                                                                             
+vaderSentiment==3.3.2                                                                                                                                                    
+wordcloud==1.5.0                                                                                                                                                         
+pyyaml==5.4.1                                                                                                                                                            
 
 #First Method 
 TEXTBLOB-
